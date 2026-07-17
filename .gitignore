@@ -427,3 +427,22 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Next.js and frontend tooling
+.env.*
+!.env.example
+.pnpm-store/
+dist/
+build/
+.next/
+out/
+.vite/
+.turbo/
+coverage/
+*.tsbuildinfo
+playwright-report/
+test-results/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
