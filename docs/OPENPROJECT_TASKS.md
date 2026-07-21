@@ -1,4 +1,6 @@
-# Tareas de OpenProject para construir Arrels Web
+# Tareas históricas de OpenProject para construir Arrels Web
+
+> Documento archivado como contexto. OpenProject ya no controla la implementación actual de `arrels-web`.
 
 Este documento es la fuente para crear las tareas de demostracion. La web comenzara con un esqueleto tecnico; cada seccion visual se implementara al pasar su tarea a `En curso`.
 
@@ -71,4 +73,3 @@ REVISION 1
 ```
 
 La oficina debe tratar cada comentario nuevo como una revision de la tarea ya vinculada a su pull request, no como una tarea nueva.
-
